@@ -25,7 +25,7 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- <a href=https://t.me/{}>{}</a> Supports both url and alert inline buttons.
+- Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
@@ -60,7 +60,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of <a href=https://t.me/{}>{}</a>
+these are the extra features of Bot
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
